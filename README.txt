@@ -1,1 +1,0 @@
-Phosuphong Jonganurak (Ken)
