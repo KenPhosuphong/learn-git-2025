@@ -4,4 +4,4 @@ from COE EN KKU
 
 basecamp: Ken
 
-edit from github
+haha I done the config
